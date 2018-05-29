@@ -1,0 +1,11 @@
+C:\Users\Robert\source\repos\ApiEnvio\ApiEnvio\bin\Debug\netcoreapp2.0\ApiEnvio.deps.json
+C:\Users\Robert\source\repos\ApiEnvio\ApiEnvio\bin\Debug\netcoreapp2.0\ApiEnvio.runtimeconfig.json
+C:\Users\Robert\source\repos\ApiEnvio\ApiEnvio\bin\Debug\netcoreapp2.0\ApiEnvio.runtimeconfig.dev.json
+C:\Users\Robert\source\repos\ApiEnvio\ApiEnvio\bin\Debug\netcoreapp2.0\ApiEnvio.dll
+C:\Users\Robert\source\repos\ApiEnvio\ApiEnvio\bin\Debug\netcoreapp2.0\ApiEnvio.pdb
+C:\Users\Robert\source\repos\ApiEnvio\ApiEnvio\obj\Debug\netcoreapp2.0\ApiEnvio.csprojAssemblyReference.cache
+C:\Users\Robert\source\repos\ApiEnvio\ApiEnvio\obj\Debug\netcoreapp2.0\ApiEnvio.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\ApiEnvio\ApiEnvio\obj\Debug\netcoreapp2.0\ApiEnvio.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\ApiEnvio\ApiEnvio\obj\Debug\netcoreapp2.0\ApiEnvio.AssemblyInfo.cs
+C:\Users\Robert\source\repos\ApiEnvio\ApiEnvio\obj\Debug\netcoreapp2.0\ApiEnvio.dll
+C:\Users\Robert\source\repos\ApiEnvio\ApiEnvio\obj\Debug\netcoreapp2.0\ApiEnvio.pdb
